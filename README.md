@@ -1,4 +1,4 @@
-# Student Grade Tracker — Python Assignment (Part 1)
+# Student Grade Tracker (Part 1)
 
 This repository contains the implementation of a **Student Grade Tracker** using core Python concepts. The project focuses on data cleaning, processing, and reporting for academic datasets.
 
@@ -45,8 +45,6 @@ Advanced text processing of student essays.
 2. Ensure you are using **Python 3.8+**.
 3. Run the cells to see the formatted output for each task.
 
-## 👤 Author
-**Harshwardhan Srivastava** *Bitsom Assignment*
 
 
 
