@@ -46,7 +46,7 @@ Advanced text processing of student essays.
 3. Run the cells to see the formatted output for each task.
 
 ## 👤 Author
-**Harsh Shrivastav** *Bitsom Assignment*
+**Harshwardhan Srivastava** *Bitsom Assignment*
 
 
 
